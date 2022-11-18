@@ -7,19 +7,20 @@ theme: minima
 header_pages:
   - index.md
   - projects.md
-#  - download.md
+  - download.md
 #  - news.md
 #  - help.md
 #  - discuss.md
 #  - history.md
 #  - donations.md
 #  - credits.md
-  
+
+show_excerpts: true
+
 minima:
-  date_format: "%Y-%m-%d"
+  date_format: "%b %-d, %Y"
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/dnetc" }
     - { platform: facebook, user_url: "https://www.facebook.com/dnetc" }
     - { platform: github, user_url: "https://github.com/dcti" }
-  show_excerpts: true
   
