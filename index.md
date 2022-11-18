@@ -1,3 +1,9 @@
+---
+layout: home
+title: "distributed.net"
+list_title: "Recent Headlines"
+---
+
 The Organization
 ================
 distributed.net was the Internet's first multi-purpose distributed computing project.
@@ -9,24 +15,6 @@ It's very simple to participate in our projects. You only need to download a sma
 
 There's more information on setting up the client, and about what our mission statement is.
 
-Recent Headlines
-================
-
-OGR-28 update (November 16, 2022)
------------
-Check bovine's recent post about OGR-28 wrapping up. We'll have another official announcement with more details coming soon!
-
-OGR-28 update (August 26, 2021)
------------
-We have now verified 410 million stubs on OGR-28! Moo!
-
-OGR-28 update (July 28, 2021)
------------
-We have now verified 405 million stubs on OGR-28! Moo!
-
-OGR-28 update (July 20, 2021)
------------
-505 million (96.3%) of all of the stubs in OGR-28 have been tested once. Moo!
 
 Other Neat Things
 ================
