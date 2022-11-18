@@ -1,3 +1,4 @@
 title: distributed.net
 description: distributed.net theme test
-remote_theme: bovine/jekyll-theme-chirpy
+# remote_theme: bovine/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
