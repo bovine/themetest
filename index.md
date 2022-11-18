@@ -11,6 +11,7 @@ There's more information on setting up the client, and about what our mission st
 
 Recent Headlines
 ================
+
 OGR-28 update (November 16, 2022)
 -----------
 Check bovine's recent post about OGR-28 wrapping up. We'll have another official announcement with more details coming soon!
