@@ -18,6 +18,7 @@ header_pages:
 show_excerpts: true
 
 minima:
+  skin: "dnetgray"
   date_format: "%b %-d, %Y"
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/dnetc" }
